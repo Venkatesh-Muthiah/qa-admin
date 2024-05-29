@@ -1,0 +1,33 @@
+{
+  "baseUrl": {
+    "berryDashboard": "https://berrydashboard.io/login",
+    "DEVurl": "https://dev-pheonixapp.pheonixsolutions.com/",
+    "QAurl": "https://qa-pheonixapp.pheonixsolutions.com/",
+    "UATurl": "https://uat-pheonixapp.pheonixsolutions.com/",
+    "PRODurl": ""
+  },
+  "admin": {
+    "credential1": {
+      "mail": "brindha@pheonixsolutions.com",
+      "password": "abcd1234"
+    },
+    "credential2": {
+      "mail": "keerthana.hardtobeat@gmail.com",
+      "password": "12345678"
+    },
+    "berryAdminLoginCredentials": {
+      "mail": "info@codedthemes.com",
+      "password": "123456"
+    }
+  },
+  "customer": {
+    "credential1": {
+      "mail": "",
+      "password": ""
+    },
+    "credential2": {
+      "mail": "",
+      "password": ""
+    }
+  }
+}
